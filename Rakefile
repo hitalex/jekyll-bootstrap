@@ -1,4 +1,5 @@
-require "rubygems"
+# For those whose ruby verison is above 1.9, one have to delete the next line, i.e. comment "require "ruby gems"", see http://docs.rubygems.org/read/chapter/3/
+require "rubygems" 
 require 'rake'
 require 'yaml'
 require 'time'
